@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/Proyecto/Matriz.cpp
+Matriz.h
+C:/Users/dell/CLionProjects/Proyecto/Matriz.h
+fstream
+-
+iostream
+-
+cstring
+-
+Nodo.h
+C:/Users/dell/CLionProjects/Proyecto/Nodo.h
+
+C:/Users/dell/CLionProjects/Proyecto/Matriz.h
+iostream
+-
+Nodo.h
+C:/Users/dell/CLionProjects/Proyecto/Nodo.h
+
+C:/Users/dell/CLionProjects/Proyecto/Nodo.cpp
+Nodo.h
+C:/Users/dell/CLionProjects/Proyecto/Nodo.h
+iostream
+-
+
+C:/Users/dell/CLionProjects/Proyecto/Nodo.h
+
+C:/Users/dell/CLionProjects/Proyecto/main.cpp
+iostream
+-
+conio.h
+-
+Matriz.h
+C:/Users/dell/CLionProjects/Proyecto/Matriz.h
+nodo.h
+C:/Users/dell/CLionProjects/Proyecto/nodo.h
+
+C:/Users/dell/CLionProjects/Proyecto/nodo.h
+
